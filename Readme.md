@@ -4,7 +4,7 @@
 
 
 
-**Download  django**
+**Download  django**</br>
 git clone https://github.com/django/django.git
 
 **Install django**</br>
